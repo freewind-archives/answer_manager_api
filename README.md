@@ -22,7 +22,7 @@ https://trello.com/b/qEiAwXei/answer-manager-api
 CI
 ======
 
-http://jenkins.shuzu.org:8080/job/answer_mamager_api/
+http://jenkins.shuzu.org:8080/job/answer_manager_api/
 
 Demo
 =====

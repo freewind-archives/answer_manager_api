@@ -1,4 +1,4 @@
-name := "answer_mamager_api"
+name := "answer_manager_api"
 
 version := "1.0-SNAPSHOT"
 
