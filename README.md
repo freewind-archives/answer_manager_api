@@ -27,7 +27,7 @@ http://jenkins.shuzu.org:8080/job/answer_manager_api/
 Demo
 =====
 
-http://shuzu.org:10004
+http://answer-manager-api.herokuapp.com
 
 Usage
 =====
