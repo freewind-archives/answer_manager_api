@@ -14,5 +14,5 @@ mappings in Universal ++=
   (baseDirectory.value / "scripts" * "*" get) map
     (x => x -> ("scripts/" + x.getName))
 
-mappings in Universal ++= Seq(baseDirectory.value / "build_version" -> "build_version")
+mappings in Universal ++= Seq(baseDirectory.value / "build_version" -> "build_version").filter(_._1.exists)
 
