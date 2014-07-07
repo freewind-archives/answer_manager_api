@@ -17,7 +17,7 @@ technology stack
 Kanban:
 ========
 
-https://trello.com/b/Rjjmmuus/answer-manager-api
+https://huboard.com/tw-scala-workshop/answer_manager_api
 
 CI
 ======
