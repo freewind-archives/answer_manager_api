@@ -1,6 +1,6 @@
 #!/bin/bash
 
-heroku apps:destroy answer-manager-api --confirm
+heroku apps:destroy -a answer-manager-api --confirm answer-manager-api
 heroku apps:create answer-manager-api
 
 git checkout master
